@@ -1,0 +1,286 @@
+12/9/2017 10:45 AM : Attempted to perform an unauthorized operation.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.SetValue(String name, Object value, RegistryValueKind valueKind)
+   at Microsoft.Win32.RegistryKey.SetValue(String name, Object value)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1303
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 2:58 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 3:28 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 3:58 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 4:28 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 4:58 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 5:28 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 5:58 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 6:28 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 6:58 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 7:28 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 7:58 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 8:28 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 8:58 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 9:28 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 9:58 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 10:28 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 11:01 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/9/2017 11:31 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 12:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 12:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 1:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 1:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 2:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 2:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 3:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 3:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 4:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 4:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 5:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 5:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 6:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 6:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 7:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 7:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 8:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 8:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 9:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 9:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 10:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 10:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 11:01 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 11:31 AM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 12:01 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 12:32 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 1:02 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 1:32 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 2:02 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 2:32 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 3:02 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 3:32 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 4:02 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 4:32 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 5:02 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 5:32 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 6:02 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217
+12/10/2017 6:32 PM : Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at SCTV.MainForm.getDefaultBrowser() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 1287
+   at SCTV.MainForm..ctor() in D:\utilities\Programming\c#\PrizeMachine_swagbucks\SafeSurf\MainForm.cs:line 217

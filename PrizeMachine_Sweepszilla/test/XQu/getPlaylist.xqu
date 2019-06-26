@@ -1,0 +1,2 @@
+FOR $playlist IN document("theFile") //playlistItems//playlistItem
+RETURN $playlist

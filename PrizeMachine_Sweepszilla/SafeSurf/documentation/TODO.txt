@@ -1,0 +1,19 @@
+- set default browser
+- add ability to take a url as argument
+- block access to IE
+- fix installer
+- add ability to change location of blocked files
+- add ability to change home page
+- add favorites
+- display found blocked sites
+- display found blocked terms
+- check content of page on logout
+- make blocked terms/sites files append instead of overwrite on publish
+- write documentation
+- don't allow the only tab to be closed
+- log errors to file
+
+
+
+
+

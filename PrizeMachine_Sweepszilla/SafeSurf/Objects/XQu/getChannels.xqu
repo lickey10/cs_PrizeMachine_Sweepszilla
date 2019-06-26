@@ -1,0 +1,3 @@
+FOR $channel IN (document("theFile")//mediaFiles//media)
+RETURN
+	$channel

@@ -1,0 +1,2 @@
+FOR $gametocategory IN document("theFile") //GamesToCategories//gametocategory
+RETURN $gametocategory

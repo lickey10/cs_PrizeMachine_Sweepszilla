@@ -1,0 +1,2 @@
+FOR $type IN document("theFile") //mediaTypes//type
+RETURN $type

@@ -1,0 +1,2 @@
+FOR $game IN document("theFile") //games//game
+RETURN $game

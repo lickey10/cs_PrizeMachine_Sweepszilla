@@ -1,0 +1,2 @@
+FOR $GameRating IN document("theFile") //GamesRatings//GameRating
+RETURN $GameRating

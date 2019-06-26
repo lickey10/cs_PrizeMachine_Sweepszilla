@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4548FB10-C90B-4EED-92B6-202CAE443F3B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SCTV</RootNamespace>
+    <AssemblyName>SCTVControls</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Publish|AnyCPU'">
+    <OutputPath>bin\Publish\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Publish|x86'">
+    <OutputPath>bin\x86\Publish\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdvancedMediaFilter\AdvancedMediaFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedMediaFilter\AdvancedMediaFilter.Designer.cs">
+      <DependentUpon>AdvancedMediaFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListView\ListViewFlickerFree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ScrollingTabs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScrollingTabs.Designer.cs">
+      <DependentUpon>ScrollingTabs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScrollRight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScrollRight.Designer.cs">
+      <DependentUpon>ScrollRight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectablePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SlidingBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SlidingBar.Designer.cs">
+      <DependentUpon>SlidingBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="starRating\RatingChangedEventArgs.cs" />
+    <Compile Include="starRating\StarRating.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="starRating\StarRating.Designer.cs">
+      <DependentUpon>StarRating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="starRating\ToolStripStarRating.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Transparent.cs" />
+    <Compile Include="TransparentControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Volume\MACTrackBarLib\ColorHelper.cs" />
+    <Compile Include="Volume\MACTrackBarLib\DrawMACStyleHelper.cs" />
+    <Compile Include="Volume\MACTrackBarLib\MACTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Volume\MACTrackBarLib\MACTrackBarDesigner.cs" />
+    <Compile Include="Volume\Volume.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Volume\Volume.Designer.cs">
+      <DependentUpon>Volume.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdvancedMediaFilter\AdvancedMediaFilter.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AdvancedMediaFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScrollingTabs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ScrollingTabs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScrollRight.resx">
+      <DependentUpon>ScrollRight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SlidingBar.resx">
+      <DependentUpon>SlidingBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="starRating\StarRating.resx">
+      <DependentUpon>StarRating.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Volume\MACTrackBarLib\MACTrackBar.resx">
+      <DependentUpon>MACTrackBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Volume\Volume.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Volume.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\muted_button.jpg" />
+    <None Include="Resources\unMuted_button.jpg" />
+    <None Include="Resources\Down_button.jpg" />
+    <None Include="Resources\Down_button1.jpg" />
+    <None Include="Resources\up_button.jpg" />
+    <Content Include="starRating\Resources\delete.png" />
+    <Content Include="starRating\Resources\rating_star_disabled.png" />
+    <Content Include="starRating\Resources\rating_star_enabled.png" />
+    <Content Include="Volume\MACTrackBarLib\MACTrackBar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Objects\SCTVObjects.csproj">
+      <Project>{0f15be7d-d1be-4ea8-a57a-f9fa41ab4a4d}</Project>
+      <Name>SCTVObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCTVFlashPlayer\SCTVFlashPlayer.csproj">
+      <Project>{9c2fc88a-0387-4539-ad90-fdabc82000e0}</Project>
+      <Name>SCTVFlashPlayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
